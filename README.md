@@ -11,5 +11,5 @@
 - 計算機概論:元宇宙
 - 科學計算軟體報告:各縣市交通量跟交通事故之關係
 ## 個人專案
-- [SCJSC(社團記帳軟體)]()
+- [SCJSC(社團記帳軟體)](https://github.com/waitmelock/Portfolio/blob/main/SCJSC/README.md)
 ## [程式學習筆記](https://hackmd.io/@WeiTingHuang/BJZh67-q3)
